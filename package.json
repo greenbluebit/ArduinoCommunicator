@@ -1,0 +1,29 @@
+{
+    "name": "com.snowfall.arduinocommunicator",
+    "version": "0.0.1",
+    "displayName": "Arduino Communicator",
+    "description": "This package can handle communication with an arduino device through a serial port.",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+    //"documentationUrl": "https://github.com/greenbluebit/ArduinoCommunicator",
+    //"changelogUrl": "https://example.com/changelog.html",
+//     "dependencies": {
+//       "com.[company-name].some-package": "1.0.0"
+//    },
+   "keywords": [
+      "serialport",
+      "arduino"
+    ],
+    "author": {
+      "name": "Theodor Florian Purcaru",
+      "email": "tedvepper@gmail.com",
+      "url": "https://greenbluebit.github.io/"
+    },
+    "samples": [
+        {
+            "displayName":"Getting started Example",
+            "description":"Show basic usage",
+            "path":"Samples~"
+        }
+    ]
+  }
